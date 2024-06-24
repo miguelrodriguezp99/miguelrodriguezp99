@@ -45,8 +45,4 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
 <img align="center" alt="GitHub Snake" src="https://raw.githubusercontent.com/miguelrodriguezp99/miguelrodriguezp99/output/github-contribution-grid-snake-dark.svg" />
