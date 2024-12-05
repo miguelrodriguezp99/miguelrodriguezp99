@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Miguel**, a software engineer based in Spain.
+I'm [**Miguel**](https://miguel-rodriguez.vercel.app), a software engineer based in Spain.
 
 My passion is web application development, and my goal is for my projects to convey to people the same sense of satisfaction that creating them gives me.
 
